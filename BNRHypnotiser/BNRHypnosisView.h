@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BNRHypnosisView.h
 //  BNRHypnotiser
 //
 //  Created by Anthony Dagati on 10/16/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BNRHypnosisView : UIView
 
 @end
-
