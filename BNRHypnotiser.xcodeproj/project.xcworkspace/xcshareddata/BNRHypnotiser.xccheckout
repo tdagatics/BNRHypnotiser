@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B5ABBFB-4E00-4A7F-9771-70176D964178</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BNRHypnotiser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3C3EA1473F8266D3DE316779499032BA94DB7CFA</key>
+		<string>https://github.com/tdagatics/BNRHypnotiser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BNRHypnotiser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3C3EA1473F8266D3DE316779499032BA94DB7CFA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tdagatics/BNRHypnotiser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3C3EA1473F8266D3DE316779499032BA94DB7CFA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3C3EA1473F8266D3DE316779499032BA94DB7CFA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BNRHypnotiser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
